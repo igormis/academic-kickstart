@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Igor Mishkovski
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor at Faculty of Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Faculty of Computer Science and Ingenering
+  url: "www.finki.ukim.mk"
+
+- name: City Falcon Limited 
+  url: "www.cityfalcon.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -61,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "igor.mishkovski@finki.ukim.mk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +73,13 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Igor Mishkovski was born in Skopje, Macedonia, in 1981. He graduated and received the master degree in computer science and engineering at the
+University Ss. Cyril and Methodius, Skopje and the
+Ph.D. degree from Politecnico di Torino, Torino,
+Italy, in 2008 and 2012, respectively.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+After he received the Ph.D. degree in 2012 he was elected as
+an assistant professor at the Faculty of Computer
+Science and Engineering in Skopje. His research
+interests include complex networks and modelling
+dynamical processes, network science, computer networks, semantic web, operating systems.
