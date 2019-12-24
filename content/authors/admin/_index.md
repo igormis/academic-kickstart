@@ -33,10 +33,10 @@ interests:
 
 education:
   courses:
-  - course: Introduction to Network Science
-    institution: Faculty of Computer Science and Engineering
-    year: 2019
-  - course: IoT
+  - course: PhD Title: Vulnerability and Dynamical Processes in Complex Networks
+    institution: Politecnico di Torino, Turin, Italy
+    year: 2012
+  - course: M.Sc. Title: Game Theory
     institution: Faculty of Computer Science and Engineering
     year: 2019
   - course: Introduction to Computer Networks
